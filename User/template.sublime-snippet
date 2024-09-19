@@ -1,0 +1,32 @@
+<snippet>
+    <content><![CDATA[
+#include<bits/stdc++.h>
+
+using namespace std;
+
+#define nline "\n"
+typedef long long ll;
+
+void solve(){
+ int n;
+cin>>n;
+   $0   
+}
+
+int32_t main() {
+ ios_base::sync_with_stdio(false);
+ cin.tie(NULL);
+
+    int T = 1;
+    // cin >> T;
+    while (T--)
+    {
+        solve();
+    }
+    return 0;
+
+}
+]]></content>
+    <tabTrigger>cpc</tabTrigger>
+    <description>cp template</description>
+</snippet>
